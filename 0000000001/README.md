@@ -74,11 +74,11 @@ A few questions to help you find your story:
 
 | Story Question | Description | Answer |
 |----------------|-------------|--------|
-| Why do I want to tell this story? | Don’t make an explainer video for fun. Know your goal to help anchor your messaging and write an effective script. | *** |
-| What’s my angle? |  In an explainer video, you’re either filling in an information gap or expanding your viewer’s knowledge. How are you making their life easier? | *** |
-| Why will people care? | Who are you speaking to, and what do they want? What are their pain points, and how are you solving them? This knowledge is necessary to help you tailor your message for them. | *** |
-| What value will this provide? | How that comes across is up to you, but it should provide some worthwhile information. | *** |
-| What should my viewer take away from this? | Your conclusion should have a lasting impact. If your explainer is strong up until a shrug of a closer, all your work will be for nothing. You shouldn’t end with an overtly sales-based message (it can unravel the work your explainer video just did), but there should be a definitive takeaway. | *** |
+| Why do I want to tell this story? | Don’t make an explainer video for fun. Know your goal to help anchor your messaging and write an effective script. | I want to make my audience aware of the benefits of using a roadmap and how to use it. |
+| What’s my angle? |  In an explainer video, you’re either filling in an information gap or expanding your viewer’s knowledge. How are you making their life easier? | My angle is to expand my viewer's knowledge, i.e. the knowledge of why and how to use a roadmap. |
+| Why will people care? | Who are you speaking to, and what do they want? What are their pain points, and how are you solving them? This knowledge is necessary to help you tailor your message for them. | People will care because they want to know how their problems are being solved. |
+| What value will this provide? | How that comes across is up to you, but it should provide some worthwhile information. | The insight into the use of a roadmap will give my audience inspiration and confidence that their problems are being solved in a structured way. |
+| What should my viewer take away from this? | Your conclusion should have a lasting impact. If your explainer is strong up until a shrug of a closer, all your work will be for nothing. You shouldn’t end with an overtly sales-based message (it can unravel the work your explainer video just did), but there should be a definitive takeaway. | My viewer should take away from this that our roadmap approach resolves problems in an effective, orderly way, which results in timely, well-researched solutions. |
 
 At every stage of the scripting process, make sure your story stays front and center.
 
