@@ -20,7 +20,7 @@
 
 ## Main Character
 
-- The Product
+- The Product (The Jobs to be Done)
 
 ## Episode
 
