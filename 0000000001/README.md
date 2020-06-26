@@ -43,3 +43,30 @@ A strong story determines the success of your entire explainer video because it 
 
 SIDENOTE: https://www.columnfivemedia.com/10-qualities-every-good-explainer-video-needs
 
+### How to Write a Good Explainer Video Script
+
+There are two aspects of an explainer video script: the story itself and how you decide to tell that story. The story is the foundation of it all, so nailing that first is imperative. Here’s how to do it.
+
+#### 1) Identify Your Story
+
+
+#### 2) Distill Your Story
+
+
+#### 3) Bring Your Viewer into the Story
+
+
+#### 4) Add Emotion
+
+
+#### 5) Check Your Length
+
+
+#### 6) Adjust for Voice-over
+
+
+#### 7) Show, Don't Tell
+
+
+#### 8) Test Your Script
+
