@@ -49,6 +49,15 @@ There are two aspects of an explainer video script: the story itself and how you
 
 #### 1) Identify Your Story
 
+All too often we see explainers that have convoluted messaging, meander all over the place, or wait until the very last second to get to the damn point. Sometimes it’s so distracting it actually does more damage than having no explainer at all. Do not make this mistake. Your job is to tell one specific story in a clear, concise way. 
+
+
+Your story will likely fall into one of two categories: problem-solution or process walkthrough. There are nuances to each, as subtle as they may be. Following these narrative formats will help you craft a strong explainer video script.
+
+| Story Category | Description | Our Choice |
+|----------------|-------------|------------|
+| A | | |
+|B | | |
 
 #### 2) Distill Your Story
 
