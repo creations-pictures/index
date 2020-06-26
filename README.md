@@ -1,5 +1,5 @@
 index
-# Index
+# Creations Pictures: Index
 
 ![Creations Organization](https://raw.githubusercontent.com/creationspictures/index/master/Creations_Organization.PNG)
 
