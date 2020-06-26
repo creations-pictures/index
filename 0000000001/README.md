@@ -32,9 +32,6 @@ https://www.columnfivemedia.com/why-explainer-videos-help-your-brand
 
 Explainer videos are a great way to introduce a subject or concept in a succinct way. This might be a quick overview of your product, service, or company. Either way, it’s an easy point of entry for people who don’t otherwise know about your brand.
 
-A strong story determines the success of your entire explainer video because it drives both the audio and visual components.
-
-
 
 ## Guidelines of an Explainer Story
 
@@ -42,5 +39,5 @@ https://www.columnfivemedia.com/easy-guide-to-writing-successful-explainer-video
 
 The idea is that audio and visual channels work separately in the brain, so when content is presented simultaneously by way of audio and visual channels—say, on-screen images and voice over—the information is processed faster and with greater ease.
 
-
+A strong story determines the success of your entire explainer video because it drives both the audio and visual components.
 
