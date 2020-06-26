@@ -41,3 +41,5 @@ The idea is that audio and visual channels work separately in the brain, so when
 
 A strong story determines the success of your entire explainer video because it drives both the audio and visual components.
 
+SIDENOTE: https://www.columnfivemedia.com/10-qualities-every-good-explainer-video-needs
+
