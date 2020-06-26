@@ -56,8 +56,8 @@ Your story will likely fall into one of two categories: problem-solution or proc
 
 | Story Category | Description | Our Choice |
 |----------------|-------------|------------|
-| Problem-Solution | This is the classic way to pose your company product or service as the hero that makes your viewer’s life easier. Make the problem clear and relatable, then use the story arc to make a natural transition to the solution. Note: Don’t spend more time on the problem than the solution. You want to leave them fantasizing about your awesome product or service, not ruminating on the frustrating problem. | - |
-|Process Overview | This tactic may be used for a service overview or a product how-to. In this approach, there’s no problem. It’s a self-contained story. Outline your narrative in clear beats, moving from one point to the next cleanly and efficiently. | - |
+| Process Overview | This tactic may be used for a service overview or a product how-to. In this approach, there’s no problem. It’s a self-contained story. Outline your narrative in clear beats, moving from one point to the next cleanly and efficiently. | MAIN STORY LINE: The purpose, use and benefit of a Roadmap |
+| Problem-Solution | This is the classic way to pose your company product or service as the hero that makes your viewer’s life easier. Make the problem clear and relatable, then use the story arc to make a natural transition to the solution. Note: Don’t spend more time on the problem than the solution. You want to leave them fantasizing about your awesome product or service, not ruminating on the frustrating problem. | SUB-PLOT: The specific Initiative/Tactic of the Episode, that serves as an example of and is told within the overarching story of the use of a Roadmap. |
 
 #### 2) Distill Your Story
 
