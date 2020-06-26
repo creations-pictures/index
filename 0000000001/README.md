@@ -31,6 +31,20 @@
 
 - The Initiative/Tactic: The Point-of-no-Return
 
+## Basic Story Plots
+
+See https://en.wikipedia.org/wiki/The_Seven_Basic_Plots
+
+| Story Plot | Description |
+|---|---|
+| Overcoming the Monster | |
+| Rage to riches| |
+| The Quest | |
+| Voyage and Return | |
+| Comedy | |
+| Tragedy | |
+| Rebirth | |
+
 ## Reasons for an Explainer Story
 
 https://www.columnfivemedia.com/why-explainer-videos-help-your-brand
@@ -59,10 +73,10 @@ All too often we see explainers that have convoluted messaging, meander all over
 
 Your story will likely fall into one of two categories: problem-solution or process walkthrough. There are nuances to each, as subtle as they may be. Following these narrative formats will help you craft a strong explainer video script.
 
-| Story Category | Description | Our Choice |
-|----------------|-------------|------------|
-| Process Overview | This tactic may be used for a service overview or a product how-to. In this approach, there’s no problem. It’s a self-contained story. Outline your narrative in clear beats, moving from one point to the next cleanly and efficiently. | MAIN STORY LINE: The purpose, use and benefit of a Roadmap |
-| Problem-Solution | This is the classic way to pose your company product or service as the hero that makes your viewer’s life easier. Make the problem clear and relatable, then use the story arc to make a natural transition to the solution. Note: Don’t spend more time on the problem than the solution. You want to leave them fantasizing about your awesome product or service, not ruminating on the frustrating problem. | SUB-PLOT: The specific Initiative/Tactic of the Episode, that serves as an example of and is told within the overarching story of the use of a Roadmap. |
+| Story Category | Description | Our Plot| Our Choice |
+|----------------|-------------|------------|------|
+| Process Overview | This tactic may be used for a service overview or a product how-to. In this approach, there’s no problem. It’s a self-contained story. Outline your narrative in clear beats, moving from one point to the next cleanly and efficiently. | Voyage and Return | MAIN STORY LINE: The purpose, use and benefit of a Roadmap |
+| Problem-Solution | This is the classic way to pose your company product or service as the hero that makes your viewer’s life easier. Make the problem clear and relatable, then use the story arc to make a natural transition to the solution. Note: Don’t spend more time on the problem than the solution. You want to leave them fantasizing about your awesome product or service, not ruminating on the frustrating problem. | The Quest | SUB-PLOT: The specific Initiative/Tactic of the Episode, that serves as an example of and is told within the overarching story of the use of a Roadmap. |
 
 Your video may not perfectly fit into either category, which is OK. The real recipe for success with explainers is simple: Provide a basic setup and a payoff for your viewer. Always remember:
 
