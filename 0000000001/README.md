@@ -1,7 +1,7 @@
 [Index](../README.md) / 
 
-# Roadmap: OASIS
+# Roadmap
 
 | UID | Episode Name | Year |
 |-----|--------------|------|
-|[100](./100/README.md)  | One Testbench in Data Center | 2020 |
+|[100](./100/README.md)  | OASIS - One Testbench in Data Center | 2020 |
