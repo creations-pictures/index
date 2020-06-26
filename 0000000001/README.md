@@ -85,21 +85,29 @@ At every stage of the scripting process, make sure your story stays front and ce
 
 #### 2) Distill Your Story
 
+More...
 
 #### 3) Bring Your Viewer into the Story
 
+More...
 
 #### 4) Add Emotion
 
+More...
 
 #### 5) Check Your Length
 
+More...
 
 #### 6) Adjust for Voice-over
 
+More...
 
 #### 7) Show, Don't Tell
 
+More...
 
 #### 8) Test Your Script
+
+More...
 
