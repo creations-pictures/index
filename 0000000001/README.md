@@ -6,7 +6,7 @@
 |-----|--------------|------|
 |[100](./100/README.md)  | OASIS - One Testbench in Data Center | 2020 |
 
-# Mapping a Roadmap on a Story
+## Mapping a Roadmap on a Story
 
 | Roadmap | Story | Sequence(s) |
 |---------|-------|-------------|
@@ -18,12 +18,12 @@
 | Development | idem | Stor(ies), Task(s) |
 | Operations | ACT III: Resolution | Operations |
 
-## Main Character
+### Main Character
 
 - The Product (The Jobs to be Done)
 
-## Episode
+### Episode
 
 - The Initiative/Tactic: The Point-of-no-Return
 
-## 
+ 
