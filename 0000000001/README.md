@@ -27,3 +27,9 @@
 - The Initiative/Tactic: The Point-of-no-Return
 
  
+## Guidelines of an Explainer Story
+
+https://www.columnfivemedia.com/easy-guide-to-writing-successful-explainer-video-script
+
+
+
