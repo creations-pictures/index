@@ -22,6 +22,11 @@
 
 - The Product (The Jobs to be Done)
 
+
+### Dialogue
+
+- See [Evernote: Explainer - Roadmap](https://www.evernote.com/client/web?_sourcePage=kK1NjxPhUQfiMUD9T65RG_YvRLZ-1eYO3fqfqRu0fynRL_1nukNa4gH1t86pc1SP&__fp=q25yhvEUYtQ3yWPvuidLz-TPR6I9Jhx8&hpts=1593182662937&showSwitchService=true&referrerCode=ebcc-ebcc-tiagofloresdias532&usernameImmutable=false&login=&login=Sign+in&login=true&hptsh=WB0dl3iYzFm%2B1VgmPndtJmnwkwI%3D#?b=acdb03d9-40fe-2de3-ba0d-798f85385f61&n=03f42eb8-4788-956b-bcc7-80ff9183e9c8&)
+
 ### Episode
 
 - The Initiative/Tactic: The Point-of-no-Return
