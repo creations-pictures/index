@@ -26,7 +26,7 @@ Song as a reference: YouTube "John Miles - Music - 1976" at https://www.youtube.
 
 | Act | Roadmap | Beats | Song Start | Song End | Lyrics |
 |-----|---------|-------|------------|----------|--------|
-| I | Intro |       |        |  | |
+| I | Intro |       | 0:00 |  | |
 | I | Purpose | | |  | |
 | I | Portfolio | | |  | |
 | I | Strategy | | |  | |
@@ -34,7 +34,7 @@ Song as a reference: YouTube "John Miles - Music - 1976" at https://www.youtube.
 | II | Delivery | | |  | |
 | II | Development | | |  | |
 | III | Operations | | |  | |
-| III | Outro |       |        |  | |
+| III | Outro |       |        | 5:52 | |
 
 ### Main Character
 
