@@ -18,6 +18,24 @@
 | Development | idem | Stor(ies), Task(s) |
 | Operations | ACT III: Resolution | Operations |
 
+### Beat Sheet
+
+Based on "Music was my first love" by John Miles, see https://en.wikipedia.org/wiki/Music_(John_Miles_song)
+
+Song as a reference: YouTube "John Miles - Music - 1976" at https://www.youtube.com/watch?v=lAsvjVx-Mg4
+
+| Act | Roadmap | Beats | Song Start | Song End | Lyrics |
+|-----|---------|-------|------------|----------|--------|
+| I | Intro |       |        |  | |
+| I | Purpose | | |  | |
+| I | Portfolio | | |  | |
+| I | Strategy | | |  | |
+| II | Discovery | | |  | |
+| II | Delivery | | |  | |
+| II | Development | | |  | |
+| III | Operations | | |  | |
+| III | Outro |       |        |  | |
+
 ### Main Character
 
 - The Product (The Jobs to be Done)
