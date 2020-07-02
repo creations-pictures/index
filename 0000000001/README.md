@@ -36,6 +36,8 @@ Song as a reference: YouTube "John Miles - Music - 1976" at https://www.youtube.
 | III | Operations | | |  | |
 | III | Outro |       |        | 5:52 | |
 
+Consider using [MuseScore](https://musescore.org/en) for this.
+
 ### Main Character
 
 - The Product (The Jobs to be Done)
