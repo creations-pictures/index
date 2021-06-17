@@ -1,7 +1,7 @@
 index
 # Creations Pictures: Index
 
-![Creations Organization](https://raw.githubusercontent.com/creationspictures/index/master/Creations_Organization.PNG)
+![Creations_Organization](https://user-images.githubusercontent.com/12828104/122349297-6beb9f00-cf4c-11eb-9847-b60ebe061ad5.png)
 
 ## Pictures
 
